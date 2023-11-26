@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Стили для темы светлая */
+.theme-light {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Стили для темы тёмная */
+.theme-dark {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
